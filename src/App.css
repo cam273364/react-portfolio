@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+footer {
+  background-color: rgba(255, 255, 255, 0.55);
+}
+
+#active-link {
+  color: white;
+}
+
+.error-message {
+  color: red;
+}
+
+.form-group {
+  margin: 20px;
+  margin-top: 0;
+  font-size: 24px;
+}
+
+/* h5 {
+  font-family: var(--bs-body-font-family);
+} */
+
+.resume {
+  min-height: 90vh;
+}
+
+.github-logo {
+  /* background-color: black; */
+  height: 50px;
+  width: 60px;
+  display: inline-block;
+}
+
+.footer-logos {
+  height: 50px;
+  width: 60px;
+  margin: 20px;
+  
+}
+
+/* .col-6 {
+  margin: 10px
+} */
