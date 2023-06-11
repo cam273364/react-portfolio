@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.755a2f13.css",
-    "main.js": "/react-portfolio/static/js/main.6631b5e6.js",
+    "main.js": "/react-portfolio/static/js/main.be409e62.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/nutricipe.jpg": "/react-portfolio/static/media/nutricipe.5e1429c04807915bcf5f.jpg",
     "static/media/pokedex.jpg": "/react-portfolio/static/media/pokedex.433d8a6c65b522ced100.jpg",
+    "static/media/lesson-ease.jpg": "/react-portfolio/static/media/lesson-ease.48ef45f95e809fa1c41b.jpg",
     "static/media/ideation.jpg": "/react-portfolio/static/media/ideation.0722c0eba18b4895ce37.jpg",
     "static/media/note-taker.jpg": "/react-portfolio/static/media/note-taker.03943d18b6f977354ae8.jpg",
     "static/media/headshot.jpeg": "/react-portfolio/static/media/headshot.f29879a641e0f77dc3c3.jpeg",
@@ -12,11 +13,11 @@
     "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-portfolio/index.html",
     "main.755a2f13.css.map": "/react-portfolio/static/css/main.755a2f13.css.map",
-    "main.6631b5e6.js.map": "/react-portfolio/static/js/main.6631b5e6.js.map",
+    "main.be409e62.js.map": "/react-portfolio/static/js/main.be409e62.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.755a2f13.css",
-    "static/js/main.6631b5e6.js"
+    "static/js/main.be409e62.js"
   ]
 }
