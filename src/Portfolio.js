@@ -36,7 +36,7 @@ function Portfolio() {
             deployedUrl: 'https://lesson-ease-client.herokuapp.com/',
             githubRepo:    'https://github.com/cam273364/lesson-ease-react',
             screenshot: lessonEase,
-            name: "ideation"
+            name: "lesson-ease"
           },
     ]
 
